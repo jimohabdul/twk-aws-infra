@@ -1,5 +1,7 @@
 # TWK Dev Server on AWS (Terraform)
 
+**Read the full write-up: [ARTICLE.md](ARTICLE.md)**
+
 Part 1 and 2 of the Tech With Kishky ERP DevOps series, built on AWS.
 
 Creates a VPC, subnet, internet gateway, security group (SSH from one IP only, 80/443 open),
